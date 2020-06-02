@@ -1,0 +1,16 @@
+table {
+ border: white 5px solid;
+border-collapse: collapse;
+}
+
+body{
+	background-image: url('doctora.jpg');
+	background-size: cover;
+}
+
+.userCreation h1{
+	color: white;
+	font-size: 500px;
+	margin-bottom: 1px;
+	align:center;
+}

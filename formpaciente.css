@@ -1,0 +1,114 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+body{
+	background-image: url('blue.jpg');
+}
+.userCreation{
+	width: 420px;
+	height: 560px;
+	background: #24303c;
+	padding: 50px;
+	margin: auto;
+	margin-top: 70px;
+	border-radius: 10px;
+	font-family: "Segoe UI";
+	color: white;
+	box-shadow: 7px 13px 37px #000;
+}
+
+.userCreation h4{
+	font-size: 22px;
+	margin-bottom: 1px;
+}
+
+.config{
+	width: 95%;
+	background: #24303c;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border :1px solid #0096d2;
+	font-family: "Segoe UI";
+	font-size: 12px;
+	color: white;
+}
+
+.estado{
+	margin-bottom: 12px;
+}
+.genero{
+	margin-bottom:16px;
+}
+
+.userCreation p{
+	height: 40px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.userCreation a{
+	color: white;
+	text-decoration: none;
+}
+
+.userCreation a:hover{
+	color: white;
+	text-decoration: underline;
+}
+
+.userCreation .btn{
+	width: 100%;
+	background: #0096d2;
+	border:5px;
+	padding: 10px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+}
+.btn{
+	width: 20%;
+	background: #9A9290;
+	font-family: "Segoe UI";
+	font-weight: 500;
+	border:5px;
+	padding: 10px;
+	color: black;
+	float:right;
+	margin: 16px 0;
+	font-size: 16px;
+}
+.config2{
+	width: 20%;
+	background: #24303c;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border :1px solid #0096d2;
+	font-family: "Segoe UI";
+	font-size: 12px;
+	color: white;
+}
+.h7{
+	font-family: "Segoe UI";
+	font-size: 22px;
+	margin-bottom: 10px;
+}
+.ok {
+	text-align: center;
+	width: 100%
+	padding: 12px;
+	background-color: #1e6;
+	color: #fff
+}
+.bad {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #a22;
+	color: #fff;
+}
